@@ -58,6 +58,12 @@ carry most of my commits, and each carries a copyright notice in my name:
 - **[PipelineTooBoxManual](https://github.com/iceanimations/PipelineTooBoxManual)**. The written manual
   for the departmental pipeline toolbox.
 
+Ten of those repositories are mirrored to this account with their full history, because a link only
+shows that code exists and a mirror lets it be read. Each README states what the tool does and who wrote
+which part. Six of the ten, chiefly `loader`, `createShots`, `expoCache` and `bakeInstancer`, are the work
+of Qurban Ali from my team, and their READMEs say so in the first paragraph rather than leaving it to be
+found in the commit graph.
+
 The **Nebula Pipeline**, a modular production pipeline I designed and led from 2019 to 2021 with a small
 team, is published module by module on
 [Bitbucket](https://bitbucket.org/nebulapipeline/workspace/repositories), with
